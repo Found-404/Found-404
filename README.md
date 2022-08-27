@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 - 🎈 博客:[Blog](https://found-404.github.io/found404.io/)
 
-
+![BLOG](https://img.shields.io/badge/BLOG-%20-lightgrey)
 
