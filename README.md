@@ -7,13 +7,17 @@ Here are some ideas to get you started:
 
 - 💻 *一名普通的前端开发*
 
-- 📫 **邮箱**: 2247124474@qq.com
+- 📫 **邮箱:** 2247124474@qq.com
 
-- 🎮 **技术栈**: React,Vue,TailWindCSS
+- 🎮 **目前所学:** TailWindCSS
 
-- 🎨 **爱好**:  UI设计, 视频剪辑, 计算机硬件
+- 🎨 **爱好:**  UI设计, 视频剪辑, 计算机硬件
 
-- 🎈 **博客**:[Blog](https://found-404.github.io/found404.io/)
+- 🎈 **博客:**  [My_BLOG](https://found-404.github.io/found404.io/)
+
+- ✨ **CSDN:**  [CSDN](https://blog.csdn.net/bl_ack233?spm=1000.2115.3001.5343)
+
+*一个不喜欢敲代码的码农😋*
 
 [![](https://img.shields.io/badge/BLOG-%20-lightgrey)](https://found-404.github.io/found404.io/)
 
