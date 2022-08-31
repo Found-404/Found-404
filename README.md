@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😘
 
 <!--
 **Found-404/Found-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,14 +7,14 @@ Here are some ideas to get you started:
 
 - 💻 *一名普通的前端开发*
 
-- 📫 **邮箱:** 2247124474@qq.com
-
 - 🎮 **目前所学:** TailWindCSS,uniapp
 
 - 🔨 **目前所做:**  一个即时通信UI组件库
   - 技术栈:React,StyledComponents,storybook
 
 - 🎨 **爱好:**  UI设计, 视频剪辑, 计算机硬件
+
+- 📫 **邮箱:** 2247124474@qq.com
 
 - 🎈 **博客:**  [My_BLOG](https://found-404.github.io/found404.io/)
 
