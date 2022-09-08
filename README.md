@@ -5,10 +5,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🎮 **目前所学:** TailWindCSS,uniapp
+- 🎮 **目前所学:** TailWindCSS,uniapp,Next.js
 
 - 🔨 **目前所做:**  一个即时通信UI组件库
-  - 技术栈:React,StyledComponents,storybook
+  - 技术栈:React, StyledComponents, storybook
   
 - 📫 **邮箱:** 2247124474@qq.com
 
