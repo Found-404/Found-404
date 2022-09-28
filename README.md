@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - ✨ **CSDN:**  [CSDN](https://blog.csdn.net/bl_ack233?spm=1000.2115.3001.5343)
 
-> *一个不喜欢敲代码的码农😋*
+> *一个喜欢UI的码农😋*
 
 [![](https://img.shields.io/badge/BLOG-%20-lightgrey)](https://found-404.github.io/found404.io/)
 
