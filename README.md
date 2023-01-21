@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🎮 **目前所学:** TailWindCSS,uniapp,Next.js,UmiJs
+- 🎮 **目前所学:** TailWindCSS,uniapp,Next.js
 
 - 🔨 **目前所做:**  一个即时通信UI组件库
   - 技术栈: React，StyledComponents，StoryBook
