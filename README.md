@@ -12,6 +12,8 @@ Here are some ideas to get you started:
   
 - 📫 **邮箱:** 2247124474@qq.com
 
+- 🧐 **WeChat:** bl_ack233
+
 - 🎈 **博客:**  [My_BLOG](https://found-404.github.io/found404.io/)
 
 - ✨ **CSDN:**  [CSDN](https://blog.csdn.net/bl_ack233?spm=1000.2115.3001.5343)
