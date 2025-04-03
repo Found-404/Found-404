@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
   
-- 📫 **邮箱:** 2247124474@qq.com
+- 📫 **邮箱:** long_yuxi@qq.com
 
 - 🧐 **WeChat:** bl_ack233
 
